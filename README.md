@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Framework**
 
-- 📫 How to reach me **mrunmayirpatil@gmail.com or mpatil15@horizon.csueastbay.edu**
+- 📫 How to reach me **mrunmayirpatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
