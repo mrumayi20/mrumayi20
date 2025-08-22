@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
-- 🔭 I’m currently working on **React API's**
+- 🔭 I’m currently working on sharpening my skills in **Low level design** and **DSA**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **AI Integration**
 
 - 📫 How to reach me **mrunmayirpatil@gmail.com**
 
